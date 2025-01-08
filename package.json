@@ -1,0 +1,26 @@
+{
+  "name": "chat-tiempo-real-proyecto-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pr1vi3t/chat-tiempo-real-proyecto-final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pr1vi3t/chat-tiempo-real-proyecto-final/issues"
+  },
+  "homepage": "https://github.com/pr1vi3t/chat-tiempo-real-proyecto-final#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "http": "^0.0.1-security",
+    "socket.io": "^4.8.1"
+  }
+}
